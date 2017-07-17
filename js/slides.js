@@ -6,5 +6,4 @@ require([
     'order!slide-controller',
     'order!slide-deck'
 ], function(someModule) {
-    require(['mqtt-client'])
 });

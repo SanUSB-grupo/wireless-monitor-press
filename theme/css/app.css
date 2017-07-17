@@ -11,3 +11,7 @@
     width: 128px;
     margin: 20px;
 }
+
+slide {
+  background: url(../../img/ifce-logo.jpg) top right no-repeat;  
+}
