@@ -22,10 +22,13 @@ var SLIDE_CONFIG = {
 
     // Author information
     presenters: [{
-            name: 'Átila Camurça',
-            company: 'Desenvolvedor/Fundador<br>Fidias',
+            name: 'Átila Camurça Alves',
+            company: 'Graduando IFCE Campus Maracanaú',
             twitter: '@atilacamurca',
             github: 'http://github.com/atilacamurca'
+        },{
+            name: 'Sandro César Silveira Jucá',
+            company: 'Orientador'
         }
         /*, {
             name: 'Second Name',

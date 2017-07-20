@@ -6,7 +6,7 @@
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "browser-sync start --server --files 'js/*.js' --files 'index.html' --files 'theme/*.css' --files 'slide_config.js' --reload-delay 2000 --no-open",
+    "start": "browser-sync start --server --files 'js/*.js' --files 'index.html' --files 'theme/**/*.css' --files 'slide_config.js' --reload-delay 2000 --no-open",
     "build": "gulp build",
     "deploy": "gh-pages -d dist",
     "predeploy": "npm run build"
