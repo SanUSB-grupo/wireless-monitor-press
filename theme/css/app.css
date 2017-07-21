@@ -13,7 +13,7 @@
 }
 
 slide:not(.nobackground) {
-    background: url(../../img/ifce-logo.jpg) top right no-repeat;
+    background: url(/img/ifce-logo.jpg) top right no-repeat;
 }
 
 slides > slide.title-slide {
