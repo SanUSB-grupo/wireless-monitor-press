@@ -12,10 +12,6 @@
     margin: 20px;
 }
 
-slide:not(.nobackground) {
-    background: url(/img/ifce-logo.jpg) top right no-repeat;
-}
-
 slides > slide.title-slide {
     background: #fff; /* fallback for old browsers */
     background: linear-gradient(to bottom, #048068, #fff 340px);
