@@ -13,9 +13,9 @@ title: Sumário
 
 title: Internet of Things (IoT)
 
-<p><img alt="architecture" src="img/raspberry_pi_quarter.jpg" style="width: 50%" class="center" /></p>
+<p><img alt="rpi" src="img/raspberry_pi_quarter.jpg" style="width: 50%" class="center" /></p>
 
-<p><img alt="architecture" src="img/nodemcu.jpg" style="width: 50%" class="center" /></p>
+<p><img alt="nodemcu" src="img/nodemcu.jpg" style="width: 50%" class="center" /></p>
 
 ---
 
@@ -23,7 +23,7 @@ title: Wireless Monitor
 
 Aplicativo web para receber e mostrar dados vindos de equipamentos IoT
 
-<p><img alt="architecture" src="img/temperature-show.png" style="width: 90%" class="center" /></p>
+<p><img alt="temp-show" src="img/temperature-show.png" style="width: 90%" class="center" /></p>
 
 ---
 
@@ -45,7 +45,7 @@ Distribuído sob licença GPL para poder ser utilizada para diversos fins.
 
 title: Arquitetura
 
-<p><img alt="architecture" src="img/arquitetura.png" style="width: 70%" class="center" /></p>
+<p><img alt="arquitetura" src="img/arquitetura.png" style="width: 70%" class="center" /></p>
 
 ---
 
@@ -54,8 +54,8 @@ title: Metodologia
 <h3>Backend</h3>
 
 <div class="flex-container">
-	<img alt="architecture" src="img/php-logo.png" style="width: 256px;" />
-	<img alt="architecture" src="img/nodejs-logo.png" style="width: 256px;" />
+	<img alt="php" src="img/php-logo.png" style="width: 256px;" />
+	<img alt="nodejs" src="img/nodejs-logo.png" style="width: 256px;" />
 </div>
 
 ---
@@ -65,11 +65,11 @@ title: Metodologia
 <div class="flex-container">
 	<div>
     	<h3>Frontend</h3>
-    	<img alt="architecture" src="img/js-logo.png" style="width: 256px;" />
+    	<img alt="js" src="img/js-logo.png" style="width: 256px;" />
     </div>
     <div>
     	<h3>Comunicação</h3>
-        <img alt="architecture" src="img/json-logo.png" style="width: 256px;" />
+        <img alt="json" src="img/json-logo.png" style="width: 256px;" />
     </div>
 </div>
 
@@ -113,7 +113,7 @@ title: Test Send Data
 
 title: Processo de Autenticação
 
-<p><img alt="architecture" src="img/processo-autenticacao.png" style="width: 100%" class="center" /></p>
+<p><img alt="auth" src="img/processo-autenticacao.png" style="width: 100%" class="center" /></p>
 
 ---
 
@@ -127,9 +127,9 @@ title: Using JavaScript SDK
 
 ---
 
-title: Fluxograma
+title: Fluxograma funcionamento
 
-TODO!
+<p><img alt="fluxograma" src="img/fluxograma-1.png" style="width: 100%" class="center" /></p>
 
 ---
 
@@ -209,6 +209,14 @@ title: Links
 * Exemplo ESP8266: <https://github.com/atilacamurca/wm-example-esp8266>
 * Exemplo Raspberry Pi/Arduino: <https://github.com/atilacamurca/wm-sensor-temperature>
 * Esta apresentação: <https://sanusb-grupo.github.io/wireless-monitor-press>
+
+---
+
+title: Publicação de Artigo
+
+Alves, Á. C.; Jucá, S. C. S. . **Wireless Monitor - Aplicativo web livre para receber e mostrar dados vindos de equipamentos IoT**. In: ERIPI 2017 (Escola Regional de Informática do Piauí), Picos-PI.
+
+<http://www.eripi.com.br/2017/images/certificados/eripi-certificados-artigos.pdf>
 
 ---
 
