@@ -127,7 +127,7 @@ title: Using JavaScript SDK
 
 ---
 
-title: Fluxograma funcionamento
+title: Fluxograma: Funcionamento
 
 <p><img alt="fluxograma" src="img/fluxograma-1.png" style="width: 100%" class="center" /></p>
 
@@ -209,12 +209,16 @@ title: Links
 * Exemplo ESP8266: <https://github.com/atilacamurca/wm-example-esp8266>
 * Exemplo Raspberry Pi/Arduino: <https://github.com/atilacamurca/wm-sensor-temperature>
 * Esta apresentação: <https://sanusb-grupo.github.io/wireless-monitor-press>
+* Scripts Demokit: <https://github.com/SanUSB-grupo/wireless-monitor-demokit>
+* Fork Demokit Linux: <https://github.com/open-fidias/demokit/tree/fluent-ffmpeg>
 
 ---
 
 title: Publicação de Artigo
 
 Alves, Á. C.; Jucá, S. C. S. . **Wireless Monitor - Aplicativo web livre para receber e mostrar dados vindos de equipamentos IoT**. In: ERIPI 2017 (Escola Regional de Informática do Piauí), Picos-PI.
+
+<https://github.com/atilacamurca/wireless-monitor-paper/tree/eripi-6p>
 
 <http://www.eripi.com.br/2017/images/certificados/eripi-certificados-artigos.pdf>
 
